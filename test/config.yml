@@ -1,0 +1,10 @@
+clientId: 12345abc
+clientSecret: superSecret123
+key:
+  property1: property1
+  property2:
+    nestedProperty:
+      - 1
+      - 2
+      - 3
+      - 4
