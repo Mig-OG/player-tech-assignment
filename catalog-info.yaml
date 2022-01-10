@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: player-tech-assignment
+  annotations:
+    github.com/project-slug: Mig-OG/player-tech-assignment
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
